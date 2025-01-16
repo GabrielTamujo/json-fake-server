@@ -1,7 +1,7 @@
 {
-  "metadata": [
+  "posts": [
     {
-      "id": 1,
+      "id": "metadata",
       "title": "hello"
     }
   ],
